@@ -1,0 +1,1231 @@
+├─ @babel/runtime@7.29.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/babel/babel
+│  ├─ publisher: The Babel Team
+│  ├─ url: https://babel.dev/team
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@babel\runtime
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@babel\runtime\LICENSE
+├─ @date-fns/tz@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/date-fns/tz
+│  ├─ publisher: Sasha Koss
+│  ├─ email: koss@nocorp.me
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@date-fns\tz
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@date-fns\tz\LICENSE.md
+├─ @emotion/is-prop-valid@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/emotion-js/emotion/tree/main/packages/is-prop-valid
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@emotion\is-prop-valid
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@emotion\is-prop-valid\LICENSE
+├─ @emotion/memoize@0.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/emotion-js/emotion/tree/main/packages/memoize
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@emotion\memoize
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@emotion\memoize\LICENSE
+├─ @floating-ui/core@1.7.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floating-ui/floating-ui
+│  ├─ publisher: atomiks
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\core
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\core\LICENSE
+├─ @floating-ui/dom@1.7.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floating-ui/floating-ui
+│  ├─ publisher: atomiks
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\dom
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\dom\LICENSE
+├─ @floating-ui/react-dom@2.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floating-ui/floating-ui
+│  ├─ publisher: atomiks
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\react-dom
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\react-dom\LICENSE
+├─ @floating-ui/utils@0.2.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floating-ui/floating-ui
+│  ├─ publisher: atomiks
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\utils
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@floating-ui\utils\LICENSE
+├─ @hookform/resolvers@3.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/react-hook-form/resolvers
+│  ├─ publisher: bluebill1049
+│  ├─ email: bluebill1049@hotmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@hookform\resolvers
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@hookform\resolvers\LICENSE
+├─ @img/colour@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lovell/colour
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@img\colour
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@img\colour\LICENSE.md
+├─ @img/sharp-win32-x64@0.34.5
+│  ├─ licenses: Apache-2.0 AND LGPL-3.0-or-later
+│  ├─ repository: https://github.com/lovell/sharp
+│  ├─ publisher: Lovell Fuller
+│  ├─ email: npm@lovell.info
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@img\sharp-win32-x64
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@img\sharp-win32-x64\LICENSE
+├─ @jridgewell/gen-mapping@0.3.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\gen-mapping
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\gen-mapping\LICENSE
+├─ @jridgewell/remapping@2.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\remapping
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\remapping\LICENSE
+├─ @jridgewell/resolve-uri@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/resolve-uri
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\resolve-uri
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\resolve-uri\LICENSE
+├─ @jridgewell/sourcemap-codec@1.5.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\sourcemap-codec
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\sourcemap-codec\LICENSE
+├─ @jridgewell/trace-mapping@0.3.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\trace-mapping
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@jridgewell\trace-mapping\LICENSE
+├─ @next/env@16.1.0-canary.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ publisher: Next.js Team
+│  ├─ email: support@vercel.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@next\env
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@next\env\README.md
+├─ @next/swc-win32-x64-msvc@16.1.0-canary.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@next\swc-win32-x64-msvc
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@next\swc-win32-x64-msvc\README.md
+├─ @nuxt/kit@4.4.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nuxt/nuxt
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@nuxt\kit
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@nuxt\kit\LICENSE
+├─ @radix-ui/number@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\number
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\number\README.md
+├─ @radix-ui/primitive@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\primitive
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\primitive\README.md
+├─ @radix-ui/react-accordion@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-accordion
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-accordion\README.md
+├─ @radix-ui/react-alert-dialog@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-alert-dialog
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-alert-dialog\README.md
+├─ @radix-ui/react-arrow@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-arrow
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-arrow\README.md
+├─ @radix-ui/react-aspect-ratio@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-aspect-ratio
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-aspect-ratio\README.md
+├─ @radix-ui/react-avatar@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-avatar
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-avatar\README.md
+├─ @radix-ui/react-checkbox@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-checkbox
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-checkbox\README.md
+├─ @radix-ui/react-collapsible@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-collapsible
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-collapsible\README.md
+├─ @radix-ui/react-collection@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-collection
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-collection\README.md
+├─ @radix-ui/react-compose-refs@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-compose-refs
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-compose-refs\README.md
+├─ @radix-ui/react-context-menu@2.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-context-menu
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-context-menu\README.md
+├─ @radix-ui/react-context@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-context
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-context\README.md
+├─ @radix-ui/react-dialog@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-dialog
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-dialog\README.md
+├─ @radix-ui/react-direction@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-direction
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-direction\README.md
+├─ @radix-ui/react-dismissable-layer@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-dismissable-layer
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-dismissable-layer\README.md
+├─ @radix-ui/react-dropdown-menu@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-dropdown-menu
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-dropdown-menu\README.md
+├─ @radix-ui/react-focus-guards@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-focus-guards
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-focus-guards\README.md
+├─ @radix-ui/react-focus-scope@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-focus-scope
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-focus-scope\README.md
+├─ @radix-ui/react-hover-card@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-hover-card
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-hover-card\README.md
+├─ @radix-ui/react-id@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-id
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-id\README.md
+├─ @radix-ui/react-label@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-label
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-label\README.md
+├─ @radix-ui/react-menu@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-menu
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-menu\README.md
+├─ @radix-ui/react-menubar@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-menubar
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-menubar\README.md
+├─ @radix-ui/react-navigation-menu@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-navigation-menu
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-navigation-menu\README.md
+├─ @radix-ui/react-popover@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-popover
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-popover\README.md
+├─ @radix-ui/react-popper@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-popper
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-popper\README.md
+├─ @radix-ui/react-portal@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-portal
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-portal\README.md
+├─ @radix-ui/react-presence@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-presence
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-presence\README.md
+├─ @radix-ui/react-primitive@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-primitive
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-primitive\README.md
+├─ @radix-ui/react-progress@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-progress
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-progress\README.md
+├─ @radix-ui/react-radio-group@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-radio-group
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-radio-group\README.md
+├─ @radix-ui/react-roving-focus@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-roving-focus
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-roving-focus\README.md
+├─ @radix-ui/react-scroll-area@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-scroll-area
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-scroll-area\README.md
+├─ @radix-ui/react-select@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-select
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-select\README.md
+├─ @radix-ui/react-separator@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-separator
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-separator\README.md
+├─ @radix-ui/react-slider@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-slider
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-slider\README.md
+├─ @radix-ui/react-slot@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-slot
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-slot\README.md
+├─ @radix-ui/react-switch@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-switch
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-switch\README.md
+├─ @radix-ui/react-tabs@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-tabs
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-tabs\README.md
+├─ @radix-ui/react-toast@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-toast
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-toast\README.md
+├─ @radix-ui/react-toggle-group@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-toggle-group
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-toggle-group\README.md
+├─ @radix-ui/react-toggle@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-toggle
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-toggle\README.md
+├─ @radix-ui/react-tooltip@1.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-tooltip
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-tooltip\README.md
+├─ @radix-ui/react-use-callback-ref@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-callback-ref
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-callback-ref\README.md
+├─ @radix-ui/react-use-controllable-state@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-controllable-state
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-controllable-state\README.md
+├─ @radix-ui/react-use-escape-keydown@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-escape-keydown
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-escape-keydown\README.md
+├─ @radix-ui/react-use-layout-effect@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-layout-effect
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-layout-effect\README.md
+├─ @radix-ui/react-use-previous@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-previous
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-previous\README.md
+├─ @radix-ui/react-use-rect@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-rect
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-rect\README.md
+├─ @radix-ui/react-use-size@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-size
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-use-size\README.md
+├─ @radix-ui/react-visually-hidden@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-visually-hidden
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\react-visually-hidden\README.md
+├─ @radix-ui/rect@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/radix-ui/primitives
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\rect
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@radix-ui\rect\README.md
+├─ @swc/helpers@0.5.15
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/swc-project/swc
+│  ├─ publisher: 강동윤
+│  ├─ email: kdy1997.dev@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@swc\helpers
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@swc\helpers\LICENSE
+├─ @types/d3-array@3.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-array
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-array\LICENSE
+├─ @types/d3-color@3.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-color
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-color\LICENSE
+├─ @types/d3-ease@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-ease
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-ease\LICENSE
+├─ @types/d3-interpolate@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-interpolate
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-interpolate\LICENSE
+├─ @types/d3-path@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-path
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-path\LICENSE
+├─ @types/d3-scale@4.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-scale
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-scale\LICENSE
+├─ @types/d3-shape@3.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-shape
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-shape\LICENSE
+├─ @types/d3-time@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-time
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-time\LICENSE
+├─ @types/d3-timer@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-timer
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\d3-timer\LICENSE
+├─ @types/estree@1.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\estree
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\estree\LICENSE
+├─ @types/react-dom@19.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\react-dom
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\react-dom\LICENSE
+├─ @types/react@19.2.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\react
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@types\react\LICENSE
+├─ @vercel/analytics@1.3.1
+│  ├─ licenses: MPL-2.0
+│  ├─ repository: https://github.com/vercel/analytics
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@vercel\analytics
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\@vercel\analytics\LICENSE
+├─ acorn@8.16.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\acorn
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\acorn\LICENSE
+├─ aria-hidden@1.2.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/aria-hidden
+│  ├─ publisher: Anton Korzunov
+│  ├─ email: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\aria-hidden
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\aria-hidden\LICENSE
+├─ autoprefixer@10.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/autoprefixer
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.es
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\autoprefixer
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\autoprefixer\LICENSE
+├─ baseline-browser-mapping@2.10.28
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/web-platform-dx/baseline-browser-mapping
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\baseline-browser-mapping
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\baseline-browser-mapping\LICENSE.txt
+├─ browserslist@4.28.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserslist/browserslist
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.es
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\browserslist
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\browserslist\LICENSE
+├─ c12@3.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/c12
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\c12
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\c12\LICENSE
+├─ caniuse-lite@1.0.30001792
+│  ├─ licenses: CC-BY-4.0
+│  ├─ repository: https://github.com/browserslist/caniuse-lite
+│  ├─ publisher: Ben Briggs
+│  ├─ email: beneb.info@gmail.com
+│  ├─ url: http://beneb.info
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\caniuse-lite
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\caniuse-lite\LICENSE
+├─ chokidar@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/chokidar
+│  ├─ publisher: Paul Miller
+│  ├─ url: https://paulmillr.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\chokidar
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\chokidar\LICENSE
+├─ citty@0.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/citty
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\citty
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\citty\LICENSE
+├─ class-variance-authority@0.7.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/joe-bell/cva
+│  ├─ publisher: Joe Bell
+│  ├─ url: https://joebell.co.uk
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\class-variance-authority
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\class-variance-authority\LICENSE
+├─ client-only@0.0.1
+│  ├─ licenses: MIT
+│  └─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\client-only
+├─ clsx@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/clsx
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\clsx
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\clsx\license
+├─ cmdk@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pacocoursey/cmdk
+│  ├─ publisher: Paco
+│  ├─ url: https://github.com/pacocoursey
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\cmdk
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\cmdk\LICENSE.md
+├─ confbox@0.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/confbox
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\mlly\node_modules\confbox
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\mlly\node_modules\confbox\LICENSE
+├─ confbox@0.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/confbox
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\confbox
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\confbox\LICENSE
+├─ consola@3.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/consola
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\consola
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\consola\LICENSE
+├─ csstype@3.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/frenic/csstype
+│  ├─ publisher: Fredrik Nicol
+│  ├─ email: fredrik.nicol@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\csstype
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\csstype\LICENSE
+├─ d3-array@3.2.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-array
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-array
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-array\LICENSE
+├─ d3-color@3.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-color
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-color
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-color\LICENSE
+├─ d3-ease@3.0.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/d3/d3-ease
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-ease
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-ease\LICENSE
+├─ d3-format@3.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-format
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-format
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-format\LICENSE
+├─ d3-interpolate@3.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-interpolate
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-interpolate
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-interpolate\LICENSE
+├─ d3-path@3.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-path
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-path
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-path\LICENSE
+├─ d3-scale@4.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-scale
+│  ├─ publisher: Mike Bostock
+│  ├─ url: https://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-scale
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-scale\LICENSE
+├─ d3-shape@3.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-shape
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-shape
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-shape\LICENSE
+├─ d3-time-format@4.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-time-format
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-time-format
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-time-format\LICENSE
+├─ d3-time@3.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-time
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-time
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-time\LICENSE
+├─ d3-timer@3.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/d3/d3-timer
+│  ├─ publisher: Mike Bostock
+│  ├─ url: http://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-timer
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\d3-timer\LICENSE
+├─ date-fns-jalali@4.1.0-0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/date-fns-jalali/date-fns-jalali
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\date-fns-jalali
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\date-fns-jalali\LICENSE.md
+├─ date-fns@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/date-fns/date-fns
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\date-fns
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\date-fns\LICENSE.md
+├─ decimal.js-light@2.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MikeMcl/decimal.js-light
+│  ├─ publisher: Michael Mclaughlin
+│  ├─ email: M8ch88l@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\decimal.js-light
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\decimal.js-light\LICENCE.md
+├─ defu@6.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/defu
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\defu
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\defu\LICENSE
+├─ destr@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/destr
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\destr
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\destr\LICENSE
+├─ detect-libc@2.1.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/lovell/detect-libc
+│  ├─ publisher: Lovell Fuller
+│  ├─ email: npm@lovell.info
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\detect-libc
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\detect-libc\LICENSE
+├─ detect-node-es@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thekashey/detect-node
+│  ├─ publisher: Ilya Kantor
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\detect-node-es
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\detect-node-es\LICENSE
+├─ dom-helpers@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/react-bootstrap/dom-helpers
+│  ├─ publisher: Jason Quense
+│  ├─ email: monastic.panic@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\dom-helpers
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\dom-helpers\LICENSE
+├─ dotenv@17.4.2
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\dotenv
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\dotenv\LICENSE
+├─ electron-to-chromium@1.5.353
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/Kilian/electron-to-chromium
+│  ├─ publisher: Kilian Valkhof
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\electron-to-chromium
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\electron-to-chromium\LICENSE
+├─ embla-carousel-react@8.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidjerleke/embla-carousel
+│  ├─ publisher: David Jerleke
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\embla-carousel-react
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\embla-carousel-react\README.md
+├─ embla-carousel-reactive-utils@8.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidjerleke/embla-carousel
+│  ├─ publisher: David Jerleke
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\embla-carousel-reactive-utils
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\embla-carousel-reactive-utils\README.md
+├─ embla-carousel@8.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidjerleke/embla-carousel
+│  ├─ publisher: David Jerleke
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\embla-carousel
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\embla-carousel\README.md
+├─ errx@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/danielroe/errx
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\errx
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\errx\LICENCE
+├─ escalade@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/escalade
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\escalade
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\escalade\license
+├─ estree-walker@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rich-Harris/estree-walker
+│  ├─ publisher: Rich Harris
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\estree-walker
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\estree-walker\LICENSE
+├─ eventemitter3@4.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/primus/eventemitter3
+│  ├─ publisher: Arnout Kazemier
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\eventemitter3
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\eventemitter3\LICENSE
+├─ exsolve@1.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/exsolve
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\exsolve
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\exsolve\LICENSE
+├─ fast-equals@5.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/planttheidea/fast-equals
+│  ├─ publisher: tony_quetano@planttheidea.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\fast-equals
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\fast-equals\LICENSE
+├─ fdir@6.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thecodrr/fdir
+│  ├─ publisher: thecodrr
+│  ├─ email: thecodrr@protonmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\fdir
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\fdir\LICENSE
+├─ fraction.js@5.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rawify/Fraction.js
+│  ├─ publisher: Robert Eisele
+│  ├─ email: robert@raw.org
+│  ├─ url: https://raw.org/
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\fraction.js
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\fraction.js\LICENSE
+├─ framer-motion@12.23.26
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/motiondivision/motion
+│  ├─ publisher: Matt Perry
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\framer-motion
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\framer-motion\LICENSE.md
+├─ get-nonce@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/get-nonce
+│  ├─ publisher: Anton Korzunov
+│  ├─ email: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\get-nonce
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\get-nonce\LICENSE
+├─ giget@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/giget
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\giget
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\giget\LICENSE
+├─ gsap@3.14.1
+│  ├─ licenses: Custom: https://gsap.com/GSAP-share-image.png
+│  ├─ repository: https://github.com/greensock/GSAP
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\gsap
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\gsap\README.md
+├─ ignore@7.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kaelzhang/node-ignore
+│  ├─ publisher: kael
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\ignore
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\ignore\LICENSE-MIT
+├─ input-otp@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/guilhermerodz/input-otp
+│  ├─ publisher: Guilherme Rodz
+│  ├─ email: g@rodz.dev
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\input-otp
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\input-otp\README.md
+├─ internmap@2.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/mbostock/internmap
+│  ├─ publisher: Mike Bostock
+│  ├─ url: https://bost.ocks.org/mike
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\internmap
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\internmap\LICENSE
+├─ jiti@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/jiti
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\jiti
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\jiti\LICENSE
+├─ js-tokens@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/js-tokens
+│  ├─ publisher: Simon Lydell
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\js-tokens
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\js-tokens\LICENSE
+├─ klona@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/klona
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\klona
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\klona\license
+├─ knitwork@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/knitwork
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\knitwork
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\knitwork\LICENSE
+├─ lenis@1.3.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/darkroomengineering/lenis
+│  ├─ publisher: darkroom.engineering
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\lenis
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\lenis\LICENSE
+├─ lodash@4.18.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\lodash
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\lodash\LICENSE
+├─ loose-envify@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zertosh/loose-envify
+│  ├─ publisher: Andres Suarez
+│  ├─ email: zertosh@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\loose-envify
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\loose-envify\LICENSE
+├─ lucide-react@0.454.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/lucide-icons/lucide
+│  ├─ publisher: Eric Fennis
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\lucide-react
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\lucide-react\LICENSE
+├─ magic-string@0.30.21
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rich-Harris/magic-string
+│  ├─ publisher: Rich Harris
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\magic-string
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\magic-string\LICENSE
+├─ mlly@1.8.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/mlly
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\mlly
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\mlly\LICENSE
+├─ motion-dom@12.38.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/motiondivision/motion
+│  ├─ publisher: Matt Perry
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\motion-dom
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\motion-dom\LICENSE.md
+├─ motion-utils@12.36.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/motiondivision/motion
+│  ├─ publisher: Matt Perry
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\motion-utils
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\motion-utils\LICENSE.md
+├─ nanoid@3.3.12
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/nanoid
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\nanoid
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\nanoid\LICENSE
+├─ next-themes@0.4.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pacocoursey/next-themes
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\next-themes
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\next-themes\license.md
+├─ next@16.1.0-canary.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\next
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\next\license.md
+├─ node-releases@2.0.38
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chicoxyzzy/node-releases
+│  ├─ publisher: Sergey Rubanov
+│  ├─ email: chi187@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\node-releases
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\node-releases\LICENSE
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\object-assign
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\object-assign\license
+├─ ohash@2.0.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/ohash
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\ohash
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\ohash\LICENSE
+├─ pathe@2.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/pathe
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\pathe
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\pathe\LICENSE
+├─ perfect-debounce@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/perfect-debounce
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\perfect-debounce
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\perfect-debounce\LICENSE
+├─ picocolors@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/alexeyraspopov/picocolors
+│  ├─ publisher: Alexey Raspopov
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\picocolors
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\picocolors\LICENSE
+├─ picomatch@4.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/picomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\picomatch
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\picomatch\LICENSE
+├─ pkg-types@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/pkg-types
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\mlly\node_modules\pkg-types
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\mlly\node_modules\pkg-types\LICENSE
+├─ pkg-types@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/pkg-types
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\pkg-types
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\pkg-types\LICENSE
+├─ postcss-value-parser@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TrySound/postcss-value-parser
+│  ├─ publisher: Bogdan Chadkin
+│  ├─ email: trysound@yandex.ru
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\postcss-value-parser
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\postcss-value-parser\LICENSE
+├─ postcss@8.4.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\next\node_modules\postcss
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\next\node_modules\postcss\LICENSE
+├─ postcss@8.5.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.es
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\postcss
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\postcss\LICENSE
+├─ projectir-teaser@4.1.3
+│  ├─ licenses: [1m[31mUNLICENSED[39m[22m
+│  ├─ private: true
+│  └─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser
+├─ prop-types@15.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/prop-types
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\prop-types
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\prop-types\LICENSE
+├─ rc9@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/rc9
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\rc9
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\rc9\LICENSE
+├─ react-day-picker@9.8.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gpbl/react-day-picker
+│  ├─ publisher: Giampaolo Bellavite
+│  ├─ email: io@gpbl.dev
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-day-picker
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-day-picker\LICENSE
+├─ react-dom@19.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-dom
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-dom\LICENSE
+├─ react-hook-form@7.75.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/react-hook-form/react-hook-form
+│  ├─ publisher: Beier
+│  ├─ email: bluebill1049@hotmail.com
+│  ├─ url: Bill
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-hook-form
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-hook-form\LICENSE
+├─ react-is@16.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\prop-types\node_modules\react-is
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\prop-types\node_modules\react-is\LICENSE
+├─ react-is@18.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-is
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-is\LICENSE
+├─ react-remove-scroll-bar@2.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/react-remove-scroll-bar
+│  ├─ publisher: Anton Korzunov
+│  ├─ email: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-remove-scroll-bar
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-remove-scroll-bar\README.md
+├─ react-remove-scroll@2.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/react-remove-scroll
+│  ├─ publisher: Anton Korzunov
+│  ├─ email: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-remove-scroll
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-remove-scroll\LICENSE
+├─ react-resizable-panels@2.1.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bvaughn/react-resizable-panels
+│  ├─ publisher: Brian Vaughn
+│  ├─ email: brian.david.vaughn@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-resizable-panels
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-resizable-panels\LICENSE
+├─ react-smooth@4.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/recharts/react-smooth
+│  ├─ publisher: JasonHzq
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-smooth
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-smooth\LICENSE
+├─ react-style-singleton@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/react-style-singleton
+│  ├─ publisher: Anton Korzunov
+│  ├─ url: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-style-singleton
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-style-singleton\LICENSE
+├─ react-transition-group@4.4.5
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/reactjs/react-transition-group
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-transition-group
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react-transition-group\LICENSE
+├─ react@19.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\react\LICENSE
+├─ readdirp@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/readdirp
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ email: thlorenz@gmx.de
+│  ├─ url: thlorenz.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\readdirp
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\readdirp\LICENSE
+├─ recharts-scale@0.4.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/recharts/recharts-scale
+│  ├─ publisher: recharts group
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\recharts-scale
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\recharts-scale\LICENSE
+├─ recharts@2.15.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/recharts/recharts
+│  ├─ publisher: recharts group
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\recharts
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\recharts\LICENSE
+├─ scheduler@0.27.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\scheduler
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\scheduler\LICENSE
+├─ scule@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/scule
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\scule
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\scule\LICENSE
+├─ semver@7.8.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\semver
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\semver\LICENSE
+├─ server-only@0.0.1
+│  ├─ licenses: MIT
+│  └─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\server-only
+├─ sharp@0.34.5
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/lovell/sharp
+│  ├─ publisher: Lovell Fuller
+│  ├─ email: npm@lovell.info
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\sharp
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\sharp\LICENSE
+├─ sonner@1.7.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/emilkowalski/sonner
+│  ├─ publisher: Emil Kowalski
+│  ├─ email: e@emilkowal.ski
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\sonner
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\sonner\LICENSE.md
+├─ source-map-js@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/7rulnik/source-map-js
+│  ├─ publisher: Valentin 7rulnik Semirulnik
+│  ├─ email: v7rulnik@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\source-map-js
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\source-map-js\LICENSE
+├─ styled-jsx@5.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/styled-jsx
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\styled-jsx
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\styled-jsx\license.md
+├─ tailwind-merge@3.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dcastil/tailwind-merge
+│  ├─ publisher: Dany Castillo
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tailwind-merge
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tailwind-merge\LICENSE.md
+├─ tailwindcss-animate@1.0.7
+│  ├─ licenses: MIT
+│  ├─ publisher: Jamie Kyle
+│  ├─ email: me@thejameskyle.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tailwindcss-animate
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tailwindcss-animate\LICENSE
+├─ tailwindcss@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tailwindlabs/tailwindcss
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tailwindcss
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tailwindcss\LICENSE
+├─ tiny-invariant@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alexreardon/tiny-invariant
+│  ├─ publisher: Alex Reardon
+│  ├─ email: alexreardon@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tiny-invariant
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tiny-invariant\LICENSE
+├─ tinyglobby@0.2.16
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/SuperchupuDev/tinyglobby
+│  ├─ publisher: Superchupu
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tinyglobby
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tinyglobby\LICENSE
+├─ tslib@2.8.1
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tslib
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\tslib\LICENSE.txt
+├─ ufo@1.6.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/ufo
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\ufo
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\ufo\LICENSE
+├─ unctx@2.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/unctx
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\unctx
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\unctx\LICENSE
+├─ unplugin@2.3.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/unplugin
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\unplugin
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\unplugin\LICENSE
+├─ untyped@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/untyped
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\untyped
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\untyped\LICENSE
+├─ update-browserslist-db@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserslist/update-db
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\update-browserslist-db
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\update-browserslist-db\LICENSE
+├─ use-callback-ref@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/use-callback-ref
+│  ├─ publisher: theKashey
+│  ├─ email: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\use-callback-ref
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\use-callback-ref\LICENSE
+├─ use-sidecar@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theKashey/use-sidecar
+│  ├─ publisher: theKashey
+│  ├─ email: thekashey@gmail.com
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\use-sidecar
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\use-sidecar\LICENSE
+├─ use-sync-external-store@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\use-sync-external-store
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\use-sync-external-store\LICENSE
+├─ vaul@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/emilkowalski/vaul
+│  ├─ publisher: Emil Kowalski
+│  ├─ email: e@emilkowal.ski
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\vaul
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\vaul\LICENSE.md
+├─ victory-vendor@36.9.2
+│  ├─ licenses: MIT AND ISC
+│  ├─ repository: https://github.com/FormidableLabs/victory
+│  ├─ publisher: Formidable
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\victory-vendor
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\victory-vendor\README.md
+├─ webpack-virtual-modules@0.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sysgears/webpack-virtual-modules
+│  ├─ publisher: SysGears INC
+│  ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\webpack-virtual-modules
+│  └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\webpack-virtual-modules\LICENSE
+└─ zod@3.25.76
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/colinhacks/zod
+   ├─ publisher: Colin McDonnell
+   ├─ email: zod@colinhacks.com
+   ├─ path: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\zod
+   └─ licenseFile: C:\Users\leejo\IdeaProjects\ProjectIR_Teaser\node_modules\zod\LICENSE
